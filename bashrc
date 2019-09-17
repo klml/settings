@@ -14,6 +14,12 @@ alias gitp='git add -p'
 
 alias du1='du -ch --max-depth=1' 
 
+alias grepr='grep -ir'
+
+# ["Give me a ping Vasili, one ping only please." - The Hunt For Red October](https://www.youtube.com/watch?v=lw5Tv8pTrfY)
+alias vasili='ping -c 1'
+
+
 # globalish
 alias df='df -h'
 alias ll='ls -lah'
