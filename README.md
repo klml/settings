@@ -13,7 +13,11 @@ firefox-bookmarks.html
 
 ## bashrc
 
-bashrc
 ```
-curl https://raw.githubusercontent.com/klml/settings/master/bashrc >> ~/.bashrc 
+curl https://raw.githubusercontent.com/klml/settings/master/bashrc >> ~/.klmlbashrc
+```
+
+Include this in your .bashrc
+```
+echo "source ~/.klmlbashrc" >> ~/.bashrc
 ```
