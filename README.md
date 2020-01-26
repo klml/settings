@@ -21,3 +21,5 @@ Include this in your .bashrc
 ```
 echo "source ~/.klmlbashrc" >> ~/.bashrc
 ```
+
+More [Time-Saving Shortcuts](https://lifehacker.com/become-a-command-line-ninja-with-these-time-saving-shor-5743814).

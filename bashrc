@@ -3,6 +3,9 @@ umask 022
 
 alias ll='ls -lah'
 alias df='df -ha'
+#[Become a Command Line Ninja With These Time-Saving Shortcuts](https://lifehacker.com/become-a-command-line-ninja-with-these-time-saving-shor-5743814)
+alias up='cd ..'
+
 export EDITOR=/usr/bin/vim
 
 alias gita='git commit -a -m'
