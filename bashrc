@@ -8,6 +8,7 @@ alias up='cd ..'
 
 export EDITOR=/usr/bin/vim
 
+# git
 alias gita='git commit -a -m'
 alias gitm='git commit -m'
 alias gits='git status'
