@@ -41,3 +41,4 @@ alias g='geany'
 ## example: get date and time into your  clipboard
 ## date | xc
 alias xc='xclip -selection c'
+alias hgrep='history | grep'
