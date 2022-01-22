@@ -16,6 +16,7 @@ alias gitd='git diff'
 alias gitc='git checkout'
 alias gitp='git add -p'
 alias gitu='git pull && git push'
+# a more standardizied and wider aproach https://github.com/GitAlias/gitalias/blob/master/gitalias.txt
 
 alias du1='du -ch --max-depth=1' 
 
