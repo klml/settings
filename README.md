@@ -1,3 +1,6 @@
+moved to https://codeberg.org/klml/settings/
+
+
 # settings
 my personal various settings for bashrc, firefox bookmarks, etc
 
